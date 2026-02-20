@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bastion": {
+      "type": "sse",
+      "url": "https://bastionfi.tech/mcp/sse"
+    }
+  }
+}
