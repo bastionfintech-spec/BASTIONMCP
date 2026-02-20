@@ -30,3 +30,4 @@ yarn.lock
 *.tmp
 *.log
 setup_dirs.ps1
+nul
